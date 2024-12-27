@@ -52,7 +52,7 @@ This project demonstrates the application of deep learning techniques to predict
 
 1. **Clone the repository**:  
    ```bash
-   git clone [https://github.com/YourUsername/student-gpa-prediction-optimization.git](https://github.com/GovindaTak/student-gpa-prediction-optimization.git)
+   git clone https://github.com/GovindaTak/student-gpa-prediction-optimization.git
    ```  
 
 2. **Navigate to the project directory**:  
@@ -89,4 +89,3 @@ This project demonstrates the application of deep learning techniques to predict
 
 ## License  
 This project is licensed under the **MIT License**. Refer to the [LICENSE](LICENSE) file for details.  
-```
