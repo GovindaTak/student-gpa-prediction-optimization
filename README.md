@@ -6,7 +6,7 @@ A deep learning project aimed at predicting first-year college GPA using high sc
 ## Overview  
 This project demonstrates the application of deep learning techniques to predict the first-year GPA of college students based on their SAT scores and high school GPA. Prodigy University aims to enhance its admission process by leveraging predictive analytics to identify students who are likely to excel academically. The project evaluates and compares the performance of various optimization techniques to improve model efficiency and accuracy.  
 
----
+-----
 
 ## Features  
 
